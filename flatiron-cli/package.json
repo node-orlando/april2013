@@ -1,0 +1,19 @@
+{
+  "description": "Flatiron CLI Example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "flatiron": "0.3.5"
+  },
+  "devDependencies": {
+    "cli-easy": "0.1.0",
+    "vows": "0.6.1"
+  },
+  "scripts": {
+    "test": "vows --spec",
+    "start": "node app.js"
+  },
+  "name": "flatiron-cli",
+  "author": "Stephen Rivas Jr (@sprjrx)",
+  "homepage": "http://node-orlando/meetup-0.3.2"
+}
