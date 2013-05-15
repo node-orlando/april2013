@@ -19,6 +19,7 @@
     "restify": "~2.5.0",
     "hapi": "~1.2.0",
     "flatiron": "~0.3.5",
-    "pkginfo" : "*"
+    "pkginfo": "*",
+    "dtrace-provider": "~0.2.8"
   }
 }
