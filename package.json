@@ -13,5 +13,11 @@
   "author": "Stephen Rivas Jr (@sprjrx)",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "1e6a5fe253d3ae81b77bc4ca137ea0fe0b8f948d"
+  "gitHead": "1e6a5fe253d3ae81b77bc4ca137ea0fe0b8f948d",
+  "dependencies": {
+    "express": "~3.2.4",
+    "restify": "~2.5.0",
+    "hapi": "~1.2.0",
+    "flatiron": "~0.3.5"
+  }
 }
